@@ -18,7 +18,7 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        href="https://github.com/alivedise/vue-gbm-alive"
+        href="https://github.com/GBMDATABASE/vue-gbm-alive"
         target="_blank"
         text
       >
